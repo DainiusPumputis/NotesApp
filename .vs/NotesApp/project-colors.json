@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02c70f69-2794-4515-aefe-2219d5b632fe": {
+      "ProjectGuid": "02c70f69-2794-4515-aefe-2219d5b632fe",
+      "DisplayName": "NotesApp",
+      "ColorIndex": 0
+    },
+    "fb4a39f7-0e78-465e-bbc4-6504d2fdc613": {
+      "ProjectGuid": "fb4a39f7-0e78-465e-bbc4-6504d2fdc613",
+      "DisplayName": "Persistence",
+      "ColorIndex": 1
+    },
+    "6ee87444-4467-482d-87c6-c9a7de0be8e0": {
+      "ProjectGuid": "6ee87444-4467-482d-87c6-c9a7de0be8e0",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "8e44de2f-00b9-444a-9dc1-43d539d13c00": {
+      "ProjectGuid": "8e44de2f-00b9-444a-9dc1-43d539d13c00",
+      "DisplayName": "LarningNuget",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

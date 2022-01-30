@@ -1,0 +1,3 @@
+{"Id":1,"Title":"Updated title","Text":"Updated note text","DateCreated":"2021-12-07T20:19:31.6980132+02:00"}
+{"Id":1,"Title":"First note","Text":"Text of our first note","DateCreated":"2021-12-07T20:31:44.6225781+02:00"}
+{"Id":2,"Title":"First note","Text":"Text of our first note","DateCreated":"2021-12-07T20:32:00.2586678+02:00"}
